@@ -21,6 +21,7 @@ Installation
 Usage example
 ------------------------------
 ::
+
     >>> from youtube import YouTube
     >>> yt = YouTube()
     >>> yt.url = "http://www.youtube.com/watch?v=oHg5SJYRHA0"
